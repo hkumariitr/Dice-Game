@@ -1,0 +1,39 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: #F79F1B;
+}
+
+h1{
+    margin: 30px;
+    font-size: 7rem;
+    text-shadow: 5px 0 #C21330 ;
+    color: #242636;
+    font-family: 'Roboto Slab', serif;
+}
+
+p{
+    font-size:2rem;
+    color:#C21330;
+    font-family: 'PT Serif', serif;
+}
+
+img{
+    width:80%
+}
+
+footer {
+    margin-top: 5%;
+    color: #00000E;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+}
